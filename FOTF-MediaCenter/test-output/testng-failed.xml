@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SeleniumJavaFramework]">
+  <parameter name="browser" value="Firefox"/>
+  <test name="Firefox(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_Article">
+        <methods>
+          <include name="AboutUs_ArticleIsFeatured"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_ArticlePublicationDate"/>
+          <include name="AboutUs_Article"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_Article -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_FiveItem">
+        <methods>
+          <include name="AboutUs_FiveItems2x3"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_FiveItemsFiveColumn"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_FiveItem -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_ThreeItem">
+        <methods>
+          <include name="AboutUs_ThreeItemsThreeColumns"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_ThreeItemsStackedImageLeft"/>
+          <include name="AboutUs_ThreeItemsThreeColumnsLinksOverlaid"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_ThreeItem -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_Showhide">
+        <methods>
+          <include name="AboutUs_ShowHideBasicGroupByyear_Article"/>
+          <include name="AboutUs_ShowHideImageLeft"/>
+          <include name="AboutUs_ShowHideBasic"/>
+          <include name="LoginSitecore"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_Showhide -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_Header">
+        <methods>
+          <include name="AboutUs_HeaderImageOnLeft"/>
+          <include name="AboutUs_HeaderVideoOnRight"/>
+          <include name="AboutUs_HeaderImageOnRight"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_HeaderImageOnTop"/>
+          <include name="AboutUs_HeaderImageCarousel"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_Header -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_CustomInitiative">
+        <methods>
+          <include name="Initiative_RightHeroImage"/>
+          <include name="Initiative_LeftHeroVideo"/>
+          <include name="LoginSitecore"/>
+          <include name="Initiative_LeftHeroImage"/>
+          <include name="Initiative_RightHeroVideo"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_CustomInitiative -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_TwoItem">
+        <methods>
+          <include name="AboutUs_TwoItemsSideBySide"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_TwoItemsSideBySideCentered"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_TwoItem -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_FourItem">
+        <methods>
+          <include name="AboutUs_FourItemsTwoColumns"/>
+          <include name="AboutUs_FourItemsFourColumnsSquare"/>
+          <include name="AboutUs_FourItemsWithInset"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_FourItemsFourColumnsRectangle"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_FourItem -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_PageComponentHeader">
+        <methods>
+          <include name="AboutUs_PageComponentHeader"/>
+          <include name="LoginSitecore"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_PageComponentHeader -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_Header">
+        <methods>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_HeaderImageOnTop"/>
+          <include name="AboutUs_HeaderImageCarousel"/>
+          <include name="AboutUs_HeaderImageOnLeft"/>
+          <include name="AboutUs_HeaderVideoOnRight"/>
+          <include name="AboutUs_HeaderImageOnRight"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_Header -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_Timeline">
+        <methods>
+          <include name="AboutUs_TimeLine"/>
+          <include name="LoginSitecore"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_Timeline -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_TwoItem">
+        <methods>
+          <include name="AboutUs_TwoItemsSideBySide"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_TwoItemsSideBySideCentered"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_TwoItem -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_PageComponentHeader">
+        <methods>
+          <include name="AboutUs_PageComponentHeader"/>
+          <include name="LoginSitecore"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_PageComponentHeader -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_Timeline">
+        <methods>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_TimeLine"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_Timeline -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_FiveItem">
+        <methods>
+          <include name="AboutUs_FiveItems2x3"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_FiveItemsFiveColumn"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_FiveItem -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_FourItem">
+        <methods>
+          <include name="AboutUs_FourItemsTwoColumns"/>
+          <include name="AboutUs_FourItemsFourColumnsSquare"/>
+          <include name="AboutUs_FourItemsWithInset"/>
+          <include name="AboutUs_FourItemsFourColumnsRectangle"/>
+          <include name="LoginSitecore"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_FourItem -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_CustomInitiative">
+        <methods>
+          <include name="Initiative_LeftHeroVideo"/>
+          <include name="Initiative_RightHeroImage"/>
+          <include name="Initiative_LeftHeroImage"/>
+          <include name="Initiative_RightHeroVideo"/>
+          <include name="LoginSitecore"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_CustomInitiative -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_ThreeItem">
+        <methods>
+          <include name="AboutUs_ThreeItemsThreeColumnsLinksOverlaid"/>
+          <include name="AboutUs_ThreeItemsThreeColumns"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_ThreeItemsStackedImageLeft"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_ThreeItem -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_Showhide">
+        <methods>
+          <include name="AboutUs_ShowHideBasicGroupByyear_Article"/>
+          <include name="AboutUs_ShowHideBasic"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_ShowHideImageLeft"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_Showhide -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_SixItem">
+        <methods>
+          <include name="AboutUs_SixItemsSixColumns"/>
+          <include name="AboutUs_SixItemsSixColumnsWithText"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_SixItemsTwoColumns"/>
+          <include name="AboutUs_SixItemsThreeColumns"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_SixItem -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_SixItem">
+        <methods>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_SixItemsThreeColumns"/>
+          <include name="AboutUs_SixItemsTwoColumns"/>
+          <include name="AboutUs_SixItemsSixColumns"/>
+          <include name="AboutUs_SixItemsSixColumnsWithText"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_SixItem -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_Article">
+        <methods>
+          <include name="AboutUs_Article"/>
+          <include name="AboutUs_ArticlePublicationDate"/>
+          <include name="AboutUs_ArticleIsFeatured"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_MergeArticleAndArticle"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_Article -->
+      <class name="fotf_Testcase.AboutusPage_ContentEditor_OneItem">
+        <methods>
+          <include name="AboutUs_ButtonOnBottom"/>
+          <include name="AboutUs_LeftAlignedImageListItems"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_RightAlignedImageListItems"/>
+          <include name="AboutUs_ImageOnRight"/>
+          <include name="AboutUs_ImageOnLeft"/>
+          <include name="AboutUs_ButtonOnLeft"/>
+          <include name="AboutUs_ButtonOnRight"/>
+          <include name="AboutUs_IFrameOnRightAlignedImageListItems"/>
+          <include name="config"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_ContentEditor_OneItem -->
+      <class name="fotf_Testcase.AboutusPage_PageEditor_OneItem">
+        <methods>
+          <include name="AboutUs_ImageOnLeft"/>
+          <include name="AboutUs_IFrameOnRightAlignedImageListItems"/>
+          <include name="AboutUs_ButtonOnLeft"/>
+          <include name="AboutUs_ButtonOnRight"/>
+          <include name="LoginSitecore"/>
+          <include name="AboutUs_LeftAlignedImageListItems"/>
+          <include name="AboutUs_ButtonOnBottom"/>
+          <include name="AboutUs_ImageOnRight"/>
+          <include name="AboutUs_RightAlignedImageListItems"/>
+        </methods>
+      </class> <!-- fotf_Testcase.AboutusPage_PageEditor_OneItem -->
+    </classes>
+  </test> <!-- Firefox(failed) -->
+</suite> <!-- Failed suite [SeleniumJavaFramework] -->
